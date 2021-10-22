@@ -1,0 +1,4 @@
+1) Abrir la terminal
+2) Instalar live-server: npm install -g live-server (solo la primera vez)
+3) Pararse en la carpeta
+4) Correr el comando live-server

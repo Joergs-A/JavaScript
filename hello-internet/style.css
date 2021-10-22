@@ -1,0 +1,24 @@
+html,body{
+    font-family: "Staatliches";
+    text-align: center;
+    font-size: 20px;
+    background: cornsilk;
+    background: url(bg.gif) center;
+    background-repeat: no-repeat;
+    background-size:cover
+}
+
+h1{
+    color:coral;
+}
+
+p{
+    max-width: 700px;
+    margin: auto;
+    color: white;
+}
+
+img{
+    width: 40%;
+    margin-bottom: 40px;;
+}
